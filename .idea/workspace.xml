@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87cdb931-cfc3-4037-8408-cfd2e7d00746" name="Changes" comment="Membuat string dari array char">
+    <list default="true" id="87cdb931-cfc3-4037-8408-cfd2e7d00746" name="Changes" comment="toUpperCase, toLowerCase, dan substring">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/OperasiString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OperasiString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683161626942</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="toUpperCase, toLowerCase, dan substring">
+      <created>1683162214332</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683162214332</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +128,7 @@
     <MESSAGE value="Membuat Main Class" />
     <MESSAGE value="Membuat variabel string" />
     <MESSAGE value="Membuat string dari array char" />
-    <option name="LAST_COMMIT_MESSAGE" value="Membuat string dari array char" />
+    <MESSAGE value="toUpperCase, toLowerCase, dan substring" />
+    <option name="LAST_COMMIT_MESSAGE" value="toUpperCase, toLowerCase, dan substring" />
   </component>
 </project>
