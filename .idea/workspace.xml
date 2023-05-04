@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87cdb931-cfc3-4037-8408-cfd2e7d00746" name="Changes" comment="Membuat variabel string">
+    <list default="true" id="87cdb931-cfc3-4037-8408-cfd2e7d00746" name="Changes" comment="Membuat string dari array char">
       <change beforePath="$PROJECT_DIR$/src/main/java/OperasiString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OperasiString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     "project.structure.side.proportion": "0.33448276"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.OperasiString">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="pertemuan03-222-4ASI" />
@@ -50,8 +50,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperasiString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperasiString" />
+      <module name="pertemuan03-222-4ASI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperasiString" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -86,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683161410184</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Membuat string dari array char">
+      <created>1683161626942</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683161626942</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +119,7 @@
     <MESSAGE value="buat projek baru" />
     <MESSAGE value="Membuat Main Class" />
     <MESSAGE value="Membuat variabel string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Membuat variabel string" />
+    <MESSAGE value="Membuat string dari array char" />
+    <option name="LAST_COMMIT_MESSAGE" value="Membuat string dari array char" />
   </component>
 </project>
